@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CRWqCumsiTDJq2GDbBg2KXfnJ2XuZRL4wkKa3Z21M62rPivSxxfI06eYAT9tCgcoajRPDGolGwu9vWTdb57KUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mutlucan\\source\\repos\\SayıTahminOyunuMobil\\SayıTahminOyunuMobil.iOS\\SayıTahminOyunuMobil.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mutlucan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Mutlucan\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Mutlucan\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

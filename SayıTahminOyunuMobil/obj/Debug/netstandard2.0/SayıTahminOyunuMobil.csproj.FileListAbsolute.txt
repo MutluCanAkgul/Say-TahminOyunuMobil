@@ -1,0 +1,15 @@
+C:\Users\Mutlucan\source\repos\SayıTahminOyunuMobil\SayıTahminOyunuMobil\bin\Debug\netstandard2.0\SayıTahminOyunuMobil.deps.json
+C:\Users\Mutlucan\source\repos\SayıTahminOyunuMobil\SayıTahminOyunuMobil\bin\Debug\netstandard2.0\SayıTahminOyunuMobil.dll
+C:\Users\Mutlucan\source\repos\SayıTahminOyunuMobil\SayıTahminOyunuMobil\bin\Debug\netstandard2.0\ref\SayıTahminOyunuMobil.dll
+C:\Users\Mutlucan\source\repos\SayıTahminOyunuMobil\SayıTahminOyunuMobil\bin\Debug\netstandard2.0\SayıTahminOyunuMobil.pdb
+C:\Users\Mutlucan\source\repos\SayıTahminOyunuMobil\SayıTahminOyunuMobil\obj\Debug\netstandard2.0\SayıTahminOyunuMobil.csproj.AssemblyReference.cache
+C:\Users\Mutlucan\source\repos\SayıTahminOyunuMobil\SayıTahminOyunuMobil\obj\Debug\netstandard2.0\SayıTahminOyunuMobil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mutlucan\source\repos\SayıTahminOyunuMobil\SayıTahminOyunuMobil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mutlucan\source\repos\SayıTahminOyunuMobil\SayıTahminOyunuMobil\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Mutlucan\source\repos\SayıTahminOyunuMobil\SayıTahminOyunuMobil\obj\Debug\netstandard2.0\SayıTahminOyunuMobil.AssemblyInfoInputs.cache
+C:\Users\Mutlucan\source\repos\SayıTahminOyunuMobil\SayıTahminOyunuMobil\obj\Debug\netstandard2.0\SayıTahminOyunuMobil.AssemblyInfo.cs
+C:\Users\Mutlucan\source\repos\SayıTahminOyunuMobil\SayıTahminOyunuMobil\obj\Debug\netstandard2.0\SayıTahminOyunuMobil.csproj.CoreCompileInputs.cache
+C:\Users\Mutlucan\source\repos\SayıTahminOyunuMobil\SayıTahminOyunuMobil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mutlucan\source\repos\SayıTahminOyunuMobil\SayıTahminOyunuMobil\obj\Debug\netstandard2.0\SayıTahminOyunuMobil.dll
+C:\Users\Mutlucan\source\repos\SayıTahminOyunuMobil\SayıTahminOyunuMobil\obj\Debug\netstandard2.0\refint\SayıTahminOyunuMobil.dll
+C:\Users\Mutlucan\source\repos\SayıTahminOyunuMobil\SayıTahminOyunuMobil\obj\Debug\netstandard2.0\SayıTahminOyunuMobil.pdb

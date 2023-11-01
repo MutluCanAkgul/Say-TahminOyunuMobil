@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SayıTahminOyunuMobil.MainPage">
+
+    <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand" VerticalOptions="Center"> 
+        <Label Text="0-100 arasında bir sayı girin" FontAttributes="Bold" TextTransform="Lowercase" FontSize="20" TextColor="Black"/>
+        <Entry Placeholder="Sayı Girin" Keyboard="Numeric" HorizontalTextAlignment="Center" FontSize="20" x:Name="kullaniciVeri"></Entry>
+        <Button Text="Tahmin Et" CornerRadius="15" Clicked="Button_Clicked" BackgroundColor="GreenYellow"></Button>
+        <Label Text="" x:Name="Metin" FontSize="18" FontAttributes="Bold" HorizontalOptions="CenterAndExpand"></Label>
+    </StackLayout>
+
+</ContentPage>
